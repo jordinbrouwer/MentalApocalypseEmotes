@@ -2,7 +2,7 @@
 
 ## Title: Twitch Emotes - Mental Apocalypse
 ## Notes: Show Mental Apocalypse emotes by typing them as you would into Discord.
-## Version: 1.0.0
+## Version: 1.1.0
 ## Author: Jordin
 
 ## Dependency: TwitchEmotes
