@@ -1,7 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/jordinbrouwer/TwitchEmotes_MentalApocalypse/compare/1.1.0...master)
+## [Unreleased](https://github.com/jordinbrouwer/TwitchEmotes_MentalApocalypse/compare/1.2.0...master)
+
+## [1.2.0 (2023-08-04)](https://github.com/jordinbrouwer/TwitchEmotes_MentalApocalypse/compare/1.1.0...1.2.0)
+
+### Added
+- Added all new non-animated emotes.
+- Added all animated emotes as static emotes.
 
 ## [1.1.0 (2023-07-25)](https://github.com/jordinbrouwer/TwitchEmotes_MentalApocalypse/compare/1.0.0...1.1.0)
 
