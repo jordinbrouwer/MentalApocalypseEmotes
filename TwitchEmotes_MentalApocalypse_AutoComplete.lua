@@ -31,8 +31,8 @@ function TwitchEmotes_MentalApocalypse:SetAutoComplete(value)
       i = i + 1
     end
     table.sort(AllTwitchEmoteNames)
-    for i = 1, NUM_CHAT_WINDOWS do
-      local frame = _G["ChatFrame"..i]
+    for chatWindowIndex = 1, NUM_CHAT_WINDOWS do
+      local frame = _G["ChatFrame"..chatWindowIndex]
       local editBox = frame.editBox
       local suggestionList = AllTwitchEmoteNames
       local maxButtonCount = 20
@@ -51,7 +51,7 @@ function TwitchEmotes_MentalApocalypse:SetAutoComplete(value)
         useTabToConfirm = true,
         useArrowButtons = true,
       }
-      SetupAutoComplete(editbox, suggestionList, maxButtonCount, autoCompleteSettings)
+      SetupAutoComplete(editBox, suggestionList, maxButtonCount, autoCompleteSettings)
     end
     autoComplete = true
   end
