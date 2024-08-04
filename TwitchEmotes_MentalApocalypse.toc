@@ -1,4 +1,4 @@
-## Interface: 100205
+## Interface: 110000
 
 ## Title: Twitch Emotes - Mental Apocalypse
 ## Notes: Show Mental Apocalypse emotes by typing them as you would into Discord.
