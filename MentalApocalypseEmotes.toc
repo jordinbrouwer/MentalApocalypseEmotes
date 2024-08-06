@@ -1,0 +1,16 @@
+## Interface: 110002
+
+## Title: Mental Apocalypse Emotes
+## Notes: Show Mental Apocalypse emotes by typing them as you would into Discord.
+## IconTexture: Interface\AddOns\MentalApocalypseEmotes\Icon
+## Version: @project-version@
+## Author: Jordin
+
+## DefaultState: enabled
+## LoadOnDemand: 0
+
+## Dependency: TwitchEmotes
+
+Emotes.lua
+DropDownMenu.lua
+AutoComplete.lua

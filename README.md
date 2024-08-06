@@ -1,4 +1,4 @@
-# Twitch Emotes - Mental Apocalypse
+# Mental Apocalypse Emotes
 
 Show Mental Apocalypse emotes by typing them as you would into Discord.
 
@@ -6,19 +6,19 @@ Show Mental Apocalypse emotes by typing them as you would into Discord.
 
 This addon does not have automatic registration of Discord emotes through the Discord API, which means emotes must be added manually.
 
+### Minimap
+
+To use emotes via the minimap button, make sure you have an active chat window before clicking the corresponding emote.
+
 ### Autocomplete
 
-To trigger emoji autocompletion, simply use the ":" symbol, and this feature encompasses the Mental Apocalypse emotes as well.
+To trigger emote autocompletion, simply use the ":" symbol, and this feature encompasses the Mental Apocalypse emotes as well.
 
 ### Known issues
 
 > The emotes are not working.
 
 Keep in mind that we're using [Twitch Emotes](https://www.curseforge.com/wow/addons/twitch-emotes-v2) for registering and displaying the emotes. If this is not working properly, make sure you have the dependency installed.
-
-> The emotes are not accessible via the minimap button.
-
-At the time of writing, the addon does not offer support for Mental Apocalypse emotes through the minimap button.
 
 ## Feedback
 
