@@ -1,7 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.0.0...master)
+## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.1.0...master)
+
+## [2.1.0 (2024-08-16)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.0.0...2.1.0)
+
+### Added
+- Added an option to disable the minimap icon.
+- Added an options screen for the addon.
+- Added remembrance of the position of the minimap icon.
 
 ## [2.0.0 (2024-08-06)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/1.5.0...2.0.0)
 
