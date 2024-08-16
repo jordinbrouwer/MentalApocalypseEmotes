@@ -8,9 +8,13 @@
 
 ## DefaultState: enabled
 ## LoadOnDemand: 0
+## SavedVariables: MentalApocalypseEmotesDB
 
 ## Dependency: TwitchEmotes
 
+Options.lua
 Emotes.lua
 DropDownMenu.lua
 AutoComplete.lua
+Panel.lua
+MentalApocalypseEmotes.lua
