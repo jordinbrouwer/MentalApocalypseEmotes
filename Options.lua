@@ -5,5 +5,5 @@ function RegisterOptions()
 		}
 	}
 
-	MentalApocalypseEmotesDB = MentalApocalypseEmotesDB or MentalApocalypseEmotesDB.Defaults
+	MentalApocalypseEmotesDB = MentalApocalypseEmotesDB or Defaults
 end

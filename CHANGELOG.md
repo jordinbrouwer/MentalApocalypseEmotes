@@ -1,7 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.1.0...master)
+## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.1.1...master)
+
+## [2.1.1 (2024-07-19)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.1.0...2.1.1)
+
+### Fixed
+- Resolved issue of options initialization.
 
 ## [2.1.0 (2024-08-16)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.0.0...2.1.0)
 
