@@ -1,7 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.1.1...master)
+## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.2.0...master)
+
+## [2.2.0 (2024-08-21)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.1.1...2.2.0)
+
+### Added
+- Added a goat emote upon request.
 
 ## [2.1.1 (2024-07-19)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.1.0...2.1.1)
 

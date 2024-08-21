@@ -69,7 +69,8 @@ function RegisterEmotes()
       ["simpvoker"] = {},
       ["SleepyGates"] = {},
       ["TWEETING"] = {},
-      ["Vernz"] = {}
+      ["Vernz"] = {},
+      ["goat"] = {}
     },
     ["Pepe Peepo"] = {
       ["1IQ"] = {},
