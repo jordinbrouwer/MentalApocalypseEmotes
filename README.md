@@ -20,6 +20,10 @@ To trigger emote autocompletion, simply use the ":" symbol, and this feature enc
 
 Keep in mind that we're using [Twitch Emotes](https://www.curseforge.com/wow/addons/twitch-emotes-v2) for registering and displaying the emotes. If this is not working properly, make sure you have the dependency installed.
 
+> Duplicate emotes.
+
+Since we are using [Twitch Emotes](https://www.curseforge.com/wow/addons/twitch-emotes-v2), there may be overlap with emotes added through this addon. If this happens, feel free to open an issue, and I will remove the duplicate.
+
 ## Feedback
 
 Please remember that I'm always working to improve the addon so I'm interested in hearing directly from you about anything you want to share or ask. You can report this using the issues on GitHub.
