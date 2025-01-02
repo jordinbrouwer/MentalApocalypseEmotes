@@ -1,4 +1,8 @@
+-- Goat and Baseg have been added as custom emotes, separate from the default Discord emotes.
+-- Additionally, the wide emotes are not supported by Discord by default, so they have been added separately as well.
+
 function RegisterEmotes()
+  -- Each group can contain up to 25 items.
   EmotesList = {
     ["Christmas"] = {
       ["angryhenkx"] = {},
@@ -70,7 +74,40 @@ function RegisterEmotes()
       ["SleepyGates"] = {},
       ["TWEETING"] = {},
       ["Vernz"] = {},
-      ["goat"] = {}
+      ["goat"] = {},
+      ["dorkin"] = {},
+      ["denmarkparrot"] = {}
+    },
+    ["Other 2"] = {
+      ["classic"] = {},
+      ["CatJam"] = {},
+      ["blalalala"] = {},
+      ["Vernz1"] = {},
+      ["swedenparrot"] = {},
+      ["stonkz"] = {},
+      ["SNIFFA"] = {},
+      ["slorpglorpin"] = {},
+      ["Passion"] = {},
+      ["Officers"] = {},
+      ["Officer"] = {},
+      ["norwayparrot"] = {},
+      ["NOOOOOO"] = {},
+      ["Naaw"] = {},
+      ["MyExistence"] = {},
+      ["monkaShoot"] = {},
+      ["LICKA"] = {},
+      ["Kissahomie"] = {},
+      ["Jorkinr"] = {},
+      ["Jorkin"] = {},
+      ["HotPotHeroes"] = {},
+      ["HaltCitizen"] = {},
+      ["GroupMeeting"] = {},
+      ["forsenNugget"] = {},
+      ["Duckass"] = {}
+    },
+    ["Other 3"] = {
+      ["Blased"] = {},
+      ["Baseg"] = {},
     },
     ["Pepe Peepo"] = {
       ["1IQ"] = {},
@@ -92,7 +129,8 @@ function RegisterEmotes()
       ["shhh"] = {},
       ["TripleMonkas"] = {},
       ["Vireny"] = {},
-      ["YoureOut"] = {}
+      ["YoureOut"] = {},
+      ["peeposaber"] = {}
     },
     ["Raider"] = {
       ["angryhenk"] = {},
@@ -116,7 +154,7 @@ function RegisterEmotes()
       ["widehelmefanta2"] = {},
       ["widehelmefanta3"] = {},
       ["widehelmefanta"] = {["name"] = "helmefanta", ["size"] = "28:112"},
-      ["widesthelmefanta"] = {["name"] = "helmefanta", ["size"] = "28:224"},
+      ["widesthelmefanta"] = {["name"] = "helmefanta", ["size"] = "28:224"}
     }
   }
 

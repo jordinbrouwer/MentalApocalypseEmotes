@@ -1,7 +1,20 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.2.0...master)
+## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.0...master)
+
+## [2.3.0 (2025-01-02)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.2.0...2.3.0)
+
+### Added
+- Added new Discord emotes.
+- Added missing animated emotes as static emotes
+- Added a Baseg emote upon request.
+- Added a comment about the emotes that are not from Discord.
+- Added note about duplicate emotes in documentation.
+
+### Changed
+- Enabled trim trailing whitespace from files.
+- Bumped version due to new patch.
 
 ## [2.2.0 (2024-08-21)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.1.1...2.2.0)
 
@@ -70,7 +83,7 @@ All notable changes to this project will be documented in this file.
 - Added all existing non-animated emotes.
 
 ### Changed
-- Changed the final newline rule to be false. 
+- Changed the final newline rule to be false.
 
 ## 1.0.0 (2023-07-23)
 

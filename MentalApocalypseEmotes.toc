@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110007
 
 ## Title: Mental Apocalypse Emotes
 ## Notes: Show Mental Apocalypse emotes by typing them as you would into Discord.
