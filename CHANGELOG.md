@@ -1,7 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.2...master)
+## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.3...master)
+
+## [2.3.3 (2026-03-16)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.2...2.3.3)
+
+### Changed
+- Bumped version due to new patch.
 
 ## [2.3.2 (2025-10-09)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.1...2.3.2)
 
