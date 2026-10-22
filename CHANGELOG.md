@@ -1,7 +1,26 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.3...master)
+## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.4...master)
+
+## [2.3.4 (2026-10-22)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.3...2.3.4)
+
+### Added
+- Added `CONTRIBUTING.md` with local development and check guidance.
+- Added `scripts/check.sh` with TOC, changelog, README, Luacheck, ShellCheck, smoke and release output checks.
+- Added `.luacheckrc` for Luacheck configuration.
+- Added a CI workflow that runs the checks on pushes and pull requests to `master`.
+- Added a CD workflow that packages tagged releases, creates a GitHub release and publishes to CurseForge (requires the `CF_API_TOKEN` secret and `CF_PROJECT_ID` variable).
+
+### Changed
+- Renamed the Lua files to use the `MentalApocalypseEmotes_` prefix and updated the TOC accordingly.
+- Renamed `Icon.tga` to `MentalApocalypseEmotes.tga`.
+- Updated `.gitattributes` and `.gitignore` to exclude development files from release archives and ignore `.tmp/`.
+- Updated the supported interface versions to `120100`, `120005` and `120007`.
+- Updated `.editorconfig` to keep trailing whitespace in Markdown files.
+
+### Fixed
+- Removed an undefined `tooltip` variable from the options panel checkbox.
 
 ## [2.3.3 (2026-03-16)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.2...2.3.3)
 

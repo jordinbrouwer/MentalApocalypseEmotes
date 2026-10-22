@@ -24,6 +24,10 @@ Keep in mind that we're using [Twitch Emotes](https://www.curseforge.com/wow/add
 
 Since we are using [Twitch Emotes](https://www.curseforge.com/wow/addons/twitch-emotes-v2), there may be overlap with emotes added through this addon. If this happens, feel free to open an issue, and I will remove the duplicate.
 
+## Development
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for development checks and contribution guidance.
+
 ## Feedback
 
 Please remember that I'm always working to improve the addon so I'm interested in hearing directly from you about anything you want to share or ask. You can report this using the issues on GitHub.

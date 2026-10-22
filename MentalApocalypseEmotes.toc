@@ -1,8 +1,8 @@
-## Interface: 120000, 120001, 120005
+## Interface: 120100, 120005, 120007
 
 ## Title: Mental Apocalypse Emotes
 ## Notes: Show Mental Apocalypse emotes by typing them as you would into Discord.
-## IconTexture: Interface\AddOns\MentalApocalypseEmotes\Icon
+## IconTexture: Interface\AddOns\MentalApocalypseEmotes\MentalApocalypseEmotes
 ## Version: @project-version@
 ## Author: Jordin
 
@@ -12,9 +12,9 @@
 
 ## Dependency: TwitchEmotes
 
-Options.lua
-Emotes.lua
-DropDownMenu.lua
-AutoComplete.lua
-Panel.lua
+MentalApocalypseEmotes_Options.lua
+MentalApocalypseEmotes_Emotes.lua
+MentalApocalypseEmotes_DropDownMenu.lua
+MentalApocalypseEmotes_AutoComplete.lua
+MentalApocalypseEmotes_Panel.lua
 MentalApocalypseEmotes.lua

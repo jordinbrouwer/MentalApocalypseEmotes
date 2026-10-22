@@ -10,7 +10,7 @@ function RegisterPanel()
 		UpdateMinimapIconVisibility()
 	end
 	local setting = Settings.RegisterProxySetting(Panel, "MentalApocalypseEmotesDB.MinimapData['hide']", type(defaultValue), "Minimap icon hidden", defaultValue, GetValue, SetValue)
-	Settings.CreateCheckbox(Panel, setting, tooltip)
+	Settings.CreateCheckbox(Panel, setting)
 
 	Settings.RegisterAddOnCategory(Panel)
 end
