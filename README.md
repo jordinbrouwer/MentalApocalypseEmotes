@@ -1,3 +1,6 @@
+⚠️ THIS PACKAGE IS NO LONGER MAINTAINED ⚠️  
+This repository has been discontinued and is no longer receiving updates or support.  
+
 # Mental Apocalypse Emotes
 
 Show Mental Apocalypse emotes by typing them as you would into Discord.

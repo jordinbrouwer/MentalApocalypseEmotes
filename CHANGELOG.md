@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.4...master)
 
+### Changed
+- Updated GitHub Actions workflows to Node 24 compatible action versions.
+- Marked the package as no longer maintained in the README.
+
 ## [2.3.4 (2026-10-22)](https://github.com/jordinbrouwer/MentalApocalypseEmotes/compare/2.3.3...2.3.4)
 
 ### Added
@@ -10,7 +14,7 @@ All notable changes to this project will be documented in this file.
 - Added `scripts/check.sh` with TOC, changelog, README, Luacheck, ShellCheck, smoke and release output checks.
 - Added `.luacheckrc` for Luacheck configuration.
 - Added a CI workflow that runs the checks on pushes and pull requests to `master`.
-- Added a CD workflow that packages tagged releases, creates a GitHub release and publishes to CurseForge (requires the `CF_API_TOKEN` secret and `CF_PROJECT_ID` variable).
+- Added a CD workflow that packages tagged releases, creates a GitHub release and publishes to CurseForge (requires the `CF_API_TOKEN` and `CF_PROJECT_ID` secrets).
 
 ### Changed
 - Renamed the Lua files to use the `MentalApocalypseEmotes_` prefix and updated the TOC accordingly.
