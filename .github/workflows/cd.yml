@@ -18,7 +18,7 @@ jobs:
         id: release
         run: bash ./scripts/release.sh "$GITHUB_OUTPUT" "$GITHUB_REF" "$GITHUB_REF_NAME"
       - name: Upload build artifact
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: MentalApocalypseEmotes-${{ steps.release.outputs.archive_version }}
           path: ${{ steps.release.outputs.archive_path }}
